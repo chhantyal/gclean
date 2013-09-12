@@ -3,7 +3,7 @@
 Free GMail inbox from unwanted junk.
 
 ## Problem
-I love web. Sometimes I love just too much, and end up getting emails from everywhere. Most of them, unwanted. My inbox is full of emails which I don't want to read. Even if I want to open, I can't because they just are too many. 
+I love web. Sometimes I love just too much, and end up getting emails from everywhere. Most of them, unwanted. My inbox is full of emails which I don't want to read. Even if I want to open, I can't because they are just too many. 
 
 This is just too messy. Let's make it clean. I still love web. Unsubscribing is not really the solution, unless it is spam (Google handles it nicely ;)
 
