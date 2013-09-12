@@ -1,4 +1,4 @@
 gclean
 ======
 
-gclean - free GMail inbox from promotions, updates, spams etc.
+free GMail inbox from promotions, updates, spams etc.
